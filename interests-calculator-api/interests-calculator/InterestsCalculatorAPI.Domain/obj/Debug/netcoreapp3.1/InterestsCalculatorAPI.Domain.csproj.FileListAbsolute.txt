@@ -1,0 +1,17 @@
+D:\Teste\interests-calculator-api\interests-calculator\InterestsCalculatorAPI.Domain\bin\Debug\netcoreapp3.1\InterestsCalculatorAPI.Domain.deps.json
+D:\Teste\interests-calculator-api\interests-calculator\InterestsCalculatorAPI.Domain\bin\Debug\netcoreapp3.1\InterestsCalculatorAPI.Domain.dll
+D:\Teste\interests-calculator-api\interests-calculator\InterestsCalculatorAPI.Domain\bin\Debug\netcoreapp3.1\InterestsCalculatorAPI.Domain.pdb
+D:\Teste\interests-calculator-api\interests-calculator\InterestsCalculatorAPI.Domain\obj\Debug\netcoreapp3.1\InterestsCalculatorAPI.Domain.AssemblyInfoInputs.cache
+D:\Teste\interests-calculator-api\interests-calculator\InterestsCalculatorAPI.Domain\obj\Debug\netcoreapp3.1\InterestsCalculatorAPI.Domain.AssemblyInfo.cs
+D:\Teste\interests-calculator-api\interests-calculator\InterestsCalculatorAPI.Domain\obj\Debug\netcoreapp3.1\InterestsCalculatorAPI.Domain.csproj.CoreCompileInputs.cache
+D:\Teste\interests-calculator-api\interests-calculator\InterestsCalculatorAPI.Domain\obj\Debug\netcoreapp3.1\InterestsCalculatorAPI.Domain.dll
+D:\Teste\interests-calculator-api\interests-calculator\InterestsCalculatorAPI.Domain\obj\Debug\netcoreapp3.1\InterestsCalculatorAPI.Domain.pdb
+C:\Teste\interests-calculator-api\interests-calculator\InterestsCalculatorAPI.Domain\bin\Debug\netcoreapp3.1\InterestsCalculatorAPI.Domain.deps.json
+C:\Teste\interests-calculator-api\interests-calculator\InterestsCalculatorAPI.Domain\bin\Debug\netcoreapp3.1\InterestsCalculatorAPI.Domain.dll
+C:\Teste\interests-calculator-api\interests-calculator\InterestsCalculatorAPI.Domain\bin\Debug\netcoreapp3.1\InterestsCalculatorAPI.Domain.pdb
+C:\Teste\interests-calculator-api\interests-calculator\InterestsCalculatorAPI.Domain\obj\Debug\netcoreapp3.1\InterestsCalculatorAPI.Domain.csprojAssemblyReference.cache
+C:\Teste\interests-calculator-api\interests-calculator\InterestsCalculatorAPI.Domain\obj\Debug\netcoreapp3.1\InterestsCalculatorAPI.Domain.AssemblyInfoInputs.cache
+C:\Teste\interests-calculator-api\interests-calculator\InterestsCalculatorAPI.Domain\obj\Debug\netcoreapp3.1\InterestsCalculatorAPI.Domain.AssemblyInfo.cs
+C:\Teste\interests-calculator-api\interests-calculator\InterestsCalculatorAPI.Domain\obj\Debug\netcoreapp3.1\InterestsCalculatorAPI.Domain.csproj.CoreCompileInputs.cache
+C:\Teste\interests-calculator-api\interests-calculator\InterestsCalculatorAPI.Domain\obj\Debug\netcoreapp3.1\InterestsCalculatorAPI.Domain.dll
+C:\Teste\interests-calculator-api\interests-calculator\InterestsCalculatorAPI.Domain\obj\Debug\netcoreapp3.1\InterestsCalculatorAPI.Domain.pdb
